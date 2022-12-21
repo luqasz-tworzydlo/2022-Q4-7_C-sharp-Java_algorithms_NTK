@@ -1,0 +1,8 @@
+C:\Users\Łukasz Tworzydło\source\repos\bubblesort_algorithm\bubblesort_algorithm\bin\Debug\bubblesort_algorithm.exe.config
+C:\Users\Łukasz Tworzydło\source\repos\bubblesort_algorithm\bubblesort_algorithm\bin\Debug\bubblesort_algorithm.exe
+C:\Users\Łukasz Tworzydło\source\repos\bubblesort_algorithm\bubblesort_algorithm\bin\Debug\bubblesort_algorithm.pdb
+C:\Users\Łukasz Tworzydło\source\repos\bubblesort_algorithm\bubblesort_algorithm\obj\Debug\bubblesort_algorithm.csproj.AssemblyReference.cache
+C:\Users\Łukasz Tworzydło\source\repos\bubblesort_algorithm\bubblesort_algorithm\obj\Debug\bubblesort_algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Łukasz Tworzydło\source\repos\bubblesort_algorithm\bubblesort_algorithm\obj\Debug\bubblesort_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz Tworzydło\source\repos\bubblesort_algorithm\bubblesort_algorithm\obj\Debug\bubblesort_algorithm.exe
+C:\Users\Łukasz Tworzydło\source\repos\bubblesort_algorithm\bubblesort_algorithm\obj\Debug\bubblesort_algorithm.pdb
